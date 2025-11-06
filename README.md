@@ -1,1 +1,1 @@
-# intensive-on-layout
+# intensive-on-layout - учебный проект
